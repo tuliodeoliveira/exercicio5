@@ -18,6 +18,7 @@ public class Exercicio1 {
       int soma = Integer.parseInt(n1+nn2+nnn3);
       
      return soma; 
+     
     }
 
 }
